@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetcore22console", "dotnetcore22console\dotnetcore22console.csproj", "{3B10BA07-B6A4-4284-9D56-290C48126682}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetcore21console", "dotnetcore21console\dotnetcore21console.csproj", "{3B10BA07-B6A4-4284-9D56-290C48126682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

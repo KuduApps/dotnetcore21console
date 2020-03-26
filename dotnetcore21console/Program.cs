@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dotnetcore22console
+namespace dotnetcore21console
 {
     class Program
     {

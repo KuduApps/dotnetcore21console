@@ -1,0 +1,1 @@
+dotnet dotnetcore21console.dll
